@@ -67,8 +67,8 @@
 
 |        색상명        | 색상코드 |          용도           |
 | :------------------: | :------: | :---------------------: |
-|     defaultWhite     | #FFFFFF  |  기본적인 하양색 색상   |
-|     defaultWhite     | #000000  |  기본적인 검은색 색상   |
+|     defaultWhite     | #FFFFFF  |  기본적인 하얀색 색상   |
+|     defaultBlack     | #000000  |  기본적인 검은색 색상   |
 |   yellowHighlight    | #FFEE00  | 노란색 하이라이트 색상  |
 |    greenHighlight    | #3FAB56  | 초록색 하이라이트 색상  |
 |  categoryTextColor   | #E08B49  |  글 대분류 텍스트 색상  |
